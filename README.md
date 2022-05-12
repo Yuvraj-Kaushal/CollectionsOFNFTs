@@ -1,6 +1,6 @@
 # NFT Marketplace
 
-> I have used solidity and other dependencies like Hardhat, Alchemy, Pinata, React and Ethers.js to build this app.
+* I have used solidity and other dependencies like Hardhat, Alchemy, Pinata, React and Ethers.js to build this app.
 
 > I've Also used openzepellin library’s ERC721 smart contract to create my own NFT smart contract.
 
