@@ -77,8 +77,8 @@ function App() {
           }
           
     }
-
-    async function handleMint(tokenURI) {
+// eslint-disable-next-line no-unused-vars
+    async function handleMint(tokenURI) { 
         setIsMinting(true);
             try {
               const options = {value: ethers.utils.parseEther("0.01")};
