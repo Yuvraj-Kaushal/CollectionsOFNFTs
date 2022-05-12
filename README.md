@@ -9,9 +9,3 @@
 * For the frontend I have used react, for now I have listed only 5 NFTs, a user would be able to connect to their metamask and mint any 2 of these NFTs.
 
 * After minting, you can see your NFT in your own metamask wallet.
-
-* This is just a test environment so make sure you are connected to rinkeby network in your metamask. Only mint these NFTs from rinkeby network.
-
-* Soon will make this available for production!
-
-Demo - https://collectionsofnfts.netlify.app/
