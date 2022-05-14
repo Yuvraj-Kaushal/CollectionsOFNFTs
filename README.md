@@ -9,3 +9,5 @@
 * For the frontend I have used react, for now I have listed only 5 NFTs, a user would be able to connect to their metamask and mint any 2 of these NFTs.
 
 * After minting, you can see your NFT in your own metamask wallet.
+
+* You can only mint these NFTs on your metamask wallet so make sure you have a metamask account otherwise this site will not work.
